@@ -1,0 +1,3 @@
+echo "cai/Lib/site-packages/torch/lib/torch_cpu.dll" >> .gitignore
+echo "cai/Lib/site-packages/torch/lib/dnnl.lib" >> .gitignore
+echo "cai/Lib/site-packages/lance/lance.pyd" >> .gitignore
